@@ -4,11 +4,11 @@
 Here's a basic overview of the rules:
 The roller uses six-sided dice
 You can roll a maximum of 36 dice
-The available modifiers are: 
-Power, Balance, Chance, Leverage, 
+The available modifiers are:
+Power, Balance, Chance, Leverage,
 Reroll, Fudge, Exploding
-for Leverage, Reroll, Fudge, and 
-Exploding, you must input a value. 
+for Leverage, Reroll, Fudge, and
+Exploding, you must input a value.
 You will get an error if you don't.
 Normally, a 5 or a 6 is 1 "success".
 Power: a 6 is two "successes"
@@ -16,15 +16,15 @@ Balance: a 4 is a "success"
 Chance: only a 6 is a "success"
 Leverage: if you have any "successes"
     gain more equal to the value
-Reroll: roll all dice equal to or 
+Reroll: roll all dice equal to or
     less than the value again
 Fudge: increase the number on a die
     a number times equal to the value
 Exploding: roll additional dice equal
     to the number of dice equal to or
-    above the value. Recursive. 
+    above the value. Recursive.
 
-That should do it! Ask me (Soulfinder)
+That should do it! Ask me (Mathew)
 if you have any more questions!
 Hemlock has a public version available
-through the discord (again, just ask).
+through the discord (available on request).
