@@ -1,0 +1,146 @@
+{
+    "abilities": {
+        "drive": 1,
+        "grace": 1,
+        "strength": 1,
+        "mind": 1,
+        "wit": 1
+    },
+    "skills": {
+        "agility": [
+            0,
+            0
+        ],
+        "endurance": [
+            0,
+            0
+        ],
+        "finesse": [
+            0,
+            0
+        ],
+        "might": [
+            0,
+            0
+        ],
+        "channeling": [
+            0,
+            0
+        ],
+        "perception": [
+            0,
+            0
+        ],
+        "rebellion": [
+            0,
+            0
+        ],
+        "stealth": [
+            0,
+            0
+        ],
+        "boldness": [
+            0,
+            0
+        ],
+        "coercion": [
+            0,
+            0
+        ],
+        "manipulation": [
+            0,
+            0
+        ],
+        "tact": [
+            0,
+            0
+        ],
+        "lore": [
+            0,
+            0
+        ],
+        "medicine": [
+            0,
+            0
+        ],
+        "spirituality": [
+            0,
+            0
+        ],
+        "wilderness": [
+            0,
+            0
+        ]
+    },
+    "trade skills": {
+        "art": [
+            0,
+            0
+        ],
+        "cartography": [
+            0,
+            0
+        ],
+        "cooking": [
+            0,
+            0
+        ],
+        "herbalism": [
+            0,
+            0
+        ],
+        "literature": [
+            0,
+            0
+        ],
+        "lockpicking": [
+            0,
+            0
+        ],
+        "smithing": [
+            0,
+            0
+        ],
+        "tailoring": [
+            0,
+            0
+        ],
+        "tinkering": [
+            0,
+            0
+        ]
+    },
+    "secondary": {
+        "inventory": {},
+        "powers": {},
+        "spells": {},
+        "protection": {},
+        "tags": {},
+        "life": [
+            4,
+            4
+        ],
+        "resistances": [],
+        "immunities": [],
+        "persistence": [
+            4,
+            4
+        ],
+        "speeds": {
+            "walking": 2,
+            "swimming": 1,
+            "climbing": 1,
+            "flying": 0
+        },
+        "notes": "",
+        "techniques": [],
+        "enchants": [],
+        "magicpool": {},
+        "level": 1,
+        "class": "",
+        "subclass": "",
+        "personality traits": {},
+        "race": "",
+        "presets": {}
+    }
+}
